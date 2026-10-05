@@ -1,0 +1,7 @@
+CustomerID,CustomerName,MembershipTier,City
+C201,Sarah Connor,Gold,Seattle
+C202,Peter Parker,Silver,New York
+C203,Bruce Wayne,Gold,Gotham
+C204,Diana Prince,Platinum,Washington
+C205,Tony Stark,Platinum,Los Angeles
+C206,Clark Kent,Bronze,Metropolis

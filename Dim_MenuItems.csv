@@ -1,0 +1,7 @@
+ItemID,ItemName,Category,MakingCost,MenuPrice
+M01,Caramel Macchiato,Hot Drinks,1.20,5.50
+M02,Cold Brew Nitro,Cold Brew,0.90,4.75
+M03,Matcha Oat Latte,Hot Drinks,1.50,6.00
+M04,Iced Vanilla Latte,Cold Brew,1.10,5.25
+M05,Almond Croissant,Bakery,1.00,4.25
+M06,Blueberry Scone,Bakery,0.80,3.75
